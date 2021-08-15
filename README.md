@@ -14,3 +14,4 @@ Solution:
 -implement genetic algorithm which uses crossover & mutation to combine paths without repetition of locations.
 -new populations will be bred from the old population with the fitness playing a role in the probability of a path being chosen.
 -New populations should have improved fitness.
+-Locations are labelled 1-100
